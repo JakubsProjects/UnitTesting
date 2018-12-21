@@ -3,7 +3,7 @@
 //
 // myvector class test harness
 //
-// <<Jakub Glebocki>>
+// <<Jakub>>
 // U. of Illinois, Chicago
 // CS341, Spring 2018
 // Project #03

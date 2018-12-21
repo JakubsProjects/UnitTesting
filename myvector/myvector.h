@@ -6,7 +6,7 @@
 // reallocation of the underlying dynamic array (and the copying of 
 // elements) when the vector becomes full.
 //
-// <<Jakub Glebocki>>
+// <<Jakub >>
 // U. of Illinois, Chicago
 // CS341, Spring 2018
 // Project #03
@@ -16,7 +16,7 @@
 
 #include <iostream>
 #include <iterator>
-#include <string>
+#include <string> 
 
 using namespace std;
 
